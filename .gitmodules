@@ -1,0 +1,6 @@
+[submodule "console"]
+	path = console
+	url = https://github.com/ahmedOsama7397/console.git
+[submodule "client"]
+	path = client
+	url = https://github.com/ahmedOsama7397/client.git
